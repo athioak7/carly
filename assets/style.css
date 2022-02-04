@@ -1,0 +1,43 @@
+#page-content {
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
+
+#login-row {
+    position: relative;
+}
+
+#hover-info {
+    position: absolute;
+    bottom: 2rem;
+}
+
+#table-switch-col {
+    display: inline-block;
+    align-self: flex-end;
+}
+
+#custom-filter-col {
+    align-self: flex-end;
+}
+
+#download-button-col {
+    display: flex;
+    justify-content: flex-end;
+}
+
+#database-options {
+    padding-bottom: 10px;
+}
+
+#tab1-title-col1 {
+    text-align: right;
+}
+
+#tab1-title-col2 {
+    text-align: left;
+}
+
+.centered-title {
+    text-align: center;
+}

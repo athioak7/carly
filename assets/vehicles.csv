@@ -1,0 +1,75 @@
+id,type,brand,model,color,fuel,engine,hp,doors,sunroof,cases,manufacture_year,status,kilometers,price,date
+1,Car,Ford,Focus,grey,Diesel,1500,120,5,False,,2017,Used,146000,13000,2021-10-30
+2,Car,Ford,Focus ST,white,Petrol,2261,173,5,False,,2004,Used,170000,8000,2021-10-30
+3,Car,Ford,Kuga,grey,Diesel,1497,120,5,False,,2017,Used,93000,23000,2021-10-30
+4,Car,Ford,Mustang,red,Petrol,5038,450,5,False,,2020,Used,25000,77000,2021-10-30
+5,Car,Ford,Puma,blue,Petrol,999,200,5,True,,2021,New,5200,39500,2021-10-30
+6,Car,Citroen,C3,red,Diesel,1199,82,5,False,,2013,Used,70000,9000,2021-11-04
+7,Car,Citroen,C4,brown,LPG,1499,85,5,False,,2010,Used,117550,6000,2021-11-04
+8,Car,Citroen,Berlingo,grey,Diesel,1560,100,5,False,,2013,Used,128051,10500,2021-11-04
+9,Car,BMW,116i,grey,Petrol,1499,122,5,True,,2021,New,7,22350,2021-11-04
+10,Car,BMW,216d,black,Diesel,1496,116,5,False,,2016,Used,179000,14900,2021-11-07
+11,Car,BMW,X1 sDrive18i,white,Diesel,1499,150,5,False,,2021,New,0,39605,2021-11-07
+12,Car,BMW,114,red,Petrol,1598,102,3,False,,2014,Used,83234,13000,2021-11-25
+13,Car,Fiat,Tipo,red,Diesel,1248,100,5,False,,2022,New,0,18000,2021-11-07
+14,Car,Fiat,Tipo Cross,orange,Diesel,1598,130,5,False,,2021,New,0,24020,2021-11-07
+15,Car,Fiat,Panda,white,CNG,999,85,5,False,,2022,New,0,14624,2021-11-12
+16,Car,Fiat,500X,blue,Diesel,1332,120,3,False,,2015,Used,89000,15500,2021-11-20
+17,Car,Fiat,Punto,grey,Petrol,1400,85,3,False,,2011,Used,110000,4900,2021-11-25
+18,Car,Fiat,Ulysse,blue,Petrol,1997,136,5,False,,2002,Used,207000,2999,2021-11-28
+19,Car,Hyundai,Bayon,light blue,Petrol,998,100,5,False,,2022,New,0,19480,2021-11-20
+20,Car,Hyundai,i10,white,Petrol,1197,70,5,False,,2015,Used,52100,9300,2021-11-20
+21,Car,Hyundai,i20 N,black,Petrol,1598,100,5,False,,2015,Used,75252,11500,2021-11-20
+22,Car,Hyundai,Kona,blue,Petrol,1598,120,5,False,,2019,New,0,17850,2021-11-20
+23,Car,Peugeot,108,white,Petrol,998,69,5,False,,2015,Used,49000,7800,2021-11-25
+24,Car,Peugeot,208,yellow,Petrol,1199,90,5,True,,2019,Used,6845,21900,2021-11-25
+25,Car,Peugeot,2008,blue,Petrol,1499,100,3,False,,2008,Used,149000,10900,2021-11-25
+26,Car,Peugeot,3008,white,Diesel,1999,130,5,False,,2021,New,0,29800,2021-11-26
+27,Car,Suzuki,Vitara,turquoise,LPG,1600,110,5,False,,2005,Used,116500,7900,2021-11-26
+28,Car,Toyota,Yaris,black,Petrol,1329,90,5,True,,2014,Used,89772,9777,2021-11-25
+29,Motorbike,Kawasaki,NInja H2R,black,Petrol,998,145,,,1,2019,New,0,14900,2021-10-30
+30,Motorbike,Kawasaki,Ninja 1000 SX,grey,Petrol,1043,143,,,1,2021,New,0,16090,2021-10-30
+31,Motorbike,Kawasaki,Versys 650,green,Petrol,649,67,,,0,2022,New,0,8990,2021-11-04
+32,Motorbike,Kawasaki,Versys-X 300,green,Petrol,296,40,,,0,2021,New,0,5900,2021-11-04
+33,Motorbike,Kawasaki,Vulcan 650 S,black,Petrol,649,61,,,0,2021,New,0,8890,2021-11-04
+34,Motorbike,Kawasaki,KLX 450R,green,Petrol,449,65,,,0,2021,New,0,8590,2021-11-07
+35,Motorbike,Kawasaki,KX 250,green,Petrol,249,55,,,0,1998,Used,64500,2500,2021-11-07
+36,Motorbike,KTM,Super Duke,orange,Petrol,1301,169,,,1,2018,Used,21814,15200,2021-11-07
+37,Motorbike,KTM,Super Adventure,white,Petrol,1301,160,,,0,2022,New,0,21800,2021-11-07
+38,Motorbike,KTM,250 Duke,orange,Petrol,249,30,,,0,2021,New,0,4880,2021-11-07
+39,Motorbike,KTM,350 EXC,orange,Petrol,350,48,,,0,2022,New,0,12050,2021-11-07
+40,Motorbike,KTM,390 Duke,black,Petrol,373,45,,,0,2021,New,0,6290,2021-11-20
+41,Motorbike,KTM,690 ENDURO R,black,Petrol,690,74,,,0,2019,Used,13850,11500,2021-11-20
+42,Motorbike,BMW,C 650 GT,grey,Petrol,647,60,,,0,2016,Used,61000,5500,2021-11-20
+43,Motorbike,BMW,F 750 GS,yellow,Petrol,853,84,,,0,2022,New,0,11050,2021-11-20
+44,Motorbike,BMW,F 850 GS ADV,white,Petrol,853,95,,,0,2020,Used,4200,16900,2021-11-20
+45,Motorbike,BMW,R 1250 GS,blue,Petrol,1254,136,,,0,2022,New,0,26980,2021-11-20
+46,Motorbike,BMW,S 1000 XR,black,Petrol,999,165,,,0,2019,Used,5000,18500,2021-11-20
+47,Motorbike,BMW,K 1600 GT,blue,Petrol,1600,160,,,1,2017,Used,32428,19400,2021-11-25
+48,Motorbike,Ducati,Hyper Motard 950,red,Petrol,937,114,,,0,2020,Used,2500,11900,2021-11-25
+49,Motorbike,Ducati,Monster 821 Stealth,black,Petrol,821,111,,,0,2021,New,0,12300,2021-11-25
+50,Motorbike,Ducati,Monster Dark Stealth,black,Petrol,937,111,,,0,2021,New,0,12500,2021-11-26
+51,Motorbike,Ducati,Multistrada 950,red,Petrol,937,115,,,0,2021,New,0,14990,2021-11-26
+52,Motorbike,Ducati,Panigale V4 S,red,Petrol,1103,214,,,0,2018,Used,7500,25900,2021-11-12
+53,Motorbike,Ducati,Scrambler 1100 Pro,grey,Petrol,1079,86,,,0,2021,New,0,14000,2021-11-12
+54,Motorbike,Peugeot,Belville 200i,black,Petrol,169,12,,,0,2020,New,0,2690,2021-11-20
+55,Motorbike,Peugeot,Djiango Evasion 125,orange,Petrol,125,10,,,0,2020,New,0,2490,2021-11-20
+56,Motorbike,Peugeot,Speedfight 3,white,Petrol,125,11,,,3,2020,New,0,1785,2021-11-25
+57,Motorbike,Peugeot,Tweet Evo 150 4T,grey,Petrol,151,11,,,0,2018,Used,5100,2249,2021-11-25
+58,Motorbike,Suzuki,DL 1050A V-STROM XT,yellow,Petrol,1037,108,,,2,2022,New,0,14795,2021-11-26
+59,Motorbike,Suzuki,DL 650 V-STROM,black,Petrol,645,70,,,0,2019,Used,29900,8200,2021-11-26
+60,Motorbike,Suzuki,GSX1300R HAYABUSA,black,Petrol,1340,190,,,0,2021,New,0,21995,2021-11-26
+61,Motorbike,Suzuki,GSX-S 950,blue,Petrol,999,95,,,0,2021,New,0,10995,2021-11-28
+62,Motorbike,Yamaha,Crypton S,black,Petrol,114,9,,,1,2021,New,0,2550,2021-11-28
+63,Motorbike,Yamaha,MT 07,black,Petrol,689,75,,,0,2021,New,0,7290,2021-11-28
+64,Motorbike,Yamaha,MT 10,blue,Petrol,998,160,,,0,2021,New,0,14900,2021-11-28
+65,Motorbike,Yamaha,MT-03,grey,Petrol,321,40,,,0,2008,Used,45000,2800,2021-11-12
+66,Motorbike,Yamaha,NMAX 155,grey,Petrol,155,12,,,0,2020,New,0,3540,2021-11-12
+67,Motorbike,Yamaha,Tracer 9,red,Petrol,889,75,,,1,2021,New,0,8890,2021-11-12
+68,Motorbike,Yamaha,Tricity 300,black,Petrol,292,28,,,0,2021,New,0,8490,2021-11-12
+69,Motorbike,Yamaha,WR 250F,blue,Petrol,249,40,,,0,2007,Used,18200,4000,2021-11-26
+70,Motorbike,Yamaha,X-MAX 400,blue,Petrol,395,35,,,1,2015,Used,16288,4750,2021-11-25
+71,Motorbike,Yamaha,XT 125R,white,Petrol,125,15,,,0,2006,Used,58000,1200,2021-11-25
+72,Motorbike,Yamaha,XSR 900,yellow,Petrol,847,115,,,0,2021,New,0,10200,2021-11-25
+73,Motorbike,Yamaha,XTZ1200Z Super Tenere,black,Petrol,1199,115,,,0,2011,Used,67500,12000,2021-11-20
+74,Motorbike,Yamaha,YZF-R1,blue,Petrol,998,180,,,0,2008,Used,40000,5500,2021-11-20
